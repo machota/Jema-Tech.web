@@ -23,7 +23,7 @@
           <p>About Us </p>
         </div>
         
-
+        
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
@@ -44,7 +44,7 @@
 
         <div class="section-title">
           
-          <h3>JEMA Tech’s Philosophy</h3>
+          <h3 style="color: white; border-radius: 50px;">JEMA Tech’s Philosophy</h3>
           <h4><b>Our Philosophy<b></h4>
         </div>
 

@@ -61,7 +61,7 @@
 
     </div>
 
-    <div _ngcontent-hib-c7="" class="col-lg py-5">
+    <div _ngcontent-hib-c7="" class="col-lg py-5" style="border-radius: 5px; border: 1px solid #F5F5F5;">
        <form _ngcontent-hib-c7="" novalidate="" action="https://formsubmit.co/info@jematech.co.tz" method="POST">
          <input _ngcontent-hib-c7="" type="hidden" name="_subject" value="New submission!">
      <div _ngcontent-hib-c7="" class="form-group">

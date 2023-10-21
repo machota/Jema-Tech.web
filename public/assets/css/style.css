@@ -930,7 +930,7 @@ section {
 --------------------------------------------------------------*/
 .products .product-item {
   border-radius: 5px;
-  border: 1px solid #FF4500;
+  border: 1px solid #F5F5F5;
  
   
 }
@@ -1447,8 +1447,12 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+
+
 .contact {
   padding-top: 5px;
+
 }
 
 .contact .info {
@@ -1887,3 +1891,21 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.sponsors .container{
+  background-color: #F5F5F5;
+  opacity: 0.3;
+  border-radius: 25px;
+  transition: ease-in-out;
+  position: relative;
+  
+}
+
+.powers .container{
+  background-color: #FF4500;
+  border-radius: 25px;
+  color: white;
+
+}
+
+

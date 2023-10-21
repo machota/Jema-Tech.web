@@ -40,6 +40,57 @@
             <p class="description">The interconnection via the internet of computing devices embedded in everyday objects, enabling them to send and receive data. </p>
           </div>
 </div>
+
+<h3 _ngcontent-hib-c4="" class="text-base mb-2" style="background-color: #FF4500;"><b>You Can Look To Our App</b></h3>
+<br><br>
+<div _ngcontent-vrw-c5="" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+<div _ngcontent-vrw-c5="" class="col">
+<div _ngcontent-vrw-c5="" class="card shadow border-0" style="max-width: 423px;">
+
+<img src="assets/img/jetcargo.png" class="img-fluid" alt="...">
+<div _ngcontent-vrw-c5="" class="card-body py-3"><h3 _ngcontent-vrw-c5="" class="text-xl">JET Cargo</h3>
+<div _ngcontent-vrw-c5="" class="d-flex justify-content-between align-items-center">
+<div _ngcontent-vrw-c5="" class="btn-group">
+<button _ngcontent-vrw-c5="" type="button" class="btn btn-sm" style="background-color: #21254D;">
+<a _ngcontent-vrw-c5="" href="https://play.google.com/store/apps/details?id=org.nativescript.JETCargo" class="text text-decoration-none" style="color: #ffffff;">Download Our App</a>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div _ngcontent-vrw-c5="" class="col">
+<div _ngcontent-vrw-c5="" class="card shadow border-0" style="max-width: 423px;">
+<img src="assets/img/jet-cargo.png" class="img-fluid" alt="...">
+<div _ngcontent-vrw-c5="" class="card-body py-3">
+<h3 _ngcontent-vrw-c5="" class="text-xl">JET Cargo Agent</h3>
+<div _ngcontent-vrw-c5="" class="d-flex justify-content-between align-items-center">
+<div _ngcontent-vrw-c5="" class="btn-group">
+<button _ngcontent-vrw-c5="" type="button" class="btn btn-sm" style="background-color: #21254D;">
+<a _ngcontent-vrw-c5="" href="https://play.google.com/store/apps/details?id=org.nativescript.JETCargoAgent" class="text text-decoration-none" style="color: #ffffff;">Download Our App</a>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div _ngcontent-vrw-c5="" class="col">
+<div _ngcontent-vrw-c5="" class="card shadow border-0" style="max-width: 423px;">
+<img src="assets/img/jet-banking.jpg" class="img-fluid" alt="...">
+<div _ngcontent-vrw-c5="" class="card-body py-3">
+<h3 _ngcontent-vrw-c5="" class="text-xl">JET Banking</h3>
+<div _ngcontent-vrw-c5="" class="d-flex justify-content-between align-items-center">
+<div _ngcontent-vrw-c5="" class="btn-group">
+<button _ngcontent-vrw-c5="" type="button" class="btn btn-sm" style="background-color: #21254D;">
+<a _ngcontent-vrw-c5="" href="https://play.google.com/store/apps/details?id=org.nativescript.JETCargoAgent" class="text text-decoration-none" style="color: #ffffff;">Download Our App</a>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
 </section>        
 
 @include('components.footer')

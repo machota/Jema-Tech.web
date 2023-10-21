@@ -8,11 +8,11 @@
       <div class="col-lg-3 col-md-6 footer-contact">
         <h3><b>JEMATECH</b></h3>
         <p>
-          A108 Bluekarf Street <br>
-          Mwanza, Mkuyuni 535022<br>
+          P.O.Box 289<br>
+          Mkuyuni, Mwanza<br>
           Tanzania <br><br>
-          <strong>Phone:</strong> +255 752 976 700<br>
-          <strong>Email:</strong> bluekarf@example.com<br>
+          <strong>Phone:</strong> +255 756 053 235<br>
+          <strong>Email:</strong> info@jematech.co.tz<br>
         </p>
       </div>
 

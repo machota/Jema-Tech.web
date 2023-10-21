@@ -30,7 +30,7 @@
           <img src="assets/img/sideph.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>We Make It Happen</h3>
+            <h3 style="color: white; border-radius: 50px;">We Make It Happen</h3>
             <p class="fst-italic">
             Jema Tech operates within the esteemed Jema Africa family, a leading African company with diverse service offerings. As the technological arm of this vibrant conglomerate, Jema Tech leads the way in empowering sister companies: Jema Chemicals, Jema Illusion, Jema Jione and JIT (Jema Institute of Technology) through innovative solutions.
             <ul>
@@ -158,6 +158,57 @@
 
     </section>
     <!-- End Popular Service Section -->
+  
+    <section id="sponsors" class="sponsors">
+      <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="fade-up">
+        <h3 style="color: white; text-align: center; background-color: #FF4500;"><b>Powered By</b></h3>
+    </div>
+    <br><br><br><br>
+         
+      
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+
+        <div class="col-lg-4 col-6 text-center">
+            <div class="logo">
+              <img src="assets/img/CRDB Bank.png" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <div class="logo">
+              <img src="assets/img/opes-logo.png" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <div class="logo">
+              <img src="assets/img/track-image.png" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <div class="logo">
+              <img src="assets/img/Jema Chemicals.png" class="img-fluid" alt="">
+              
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <div class="logo">
+              <img src="assets/img/ipf-logo.jpg" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Sponsors Section -->
 
     <!-- ======= Popular Products Section ======= -->
     <section id="products" class="products">
@@ -168,18 +219,18 @@
           <p>Our Products </p>
         </div>
 
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+        <div class="" data-aos="zoom-in" data-aos-delay="100">
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-12 col-md-6 d-flex align-items-stretch">
             <div class="product-item">
-              <img src="assets/img/jet-banking.jpg" class="img-fluid" alt="...">
+              <img src="assets/img/jet-banking.png" class="img-fluid" alt="...">
               <div class="product-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
                   <h4>JETBanking</h4>
                   
                 </div>
 
-                <h3><a href="product-details.html">Financial Empowerment</a></h3>
+                <h3><a href="">Financial Empowerment</a></h3>
                 <p>Introducing JETBanking, our financial arm dedicated to empowering clients of sister companies. JETBanking addresses credit management challenges, providing comprehensive financial solutions. Whether it's trade finance, staff loans, or community-based initiatives like vicoba groups, JETBanking ensures seamless financial support for businesses and communities alike.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -195,44 +246,20 @@
               </div>
             </div>
           </div> <!-- End Service Item-->
+        <br><br><br><br>
+          <!-- End Product Item-->
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+          <div class="col-lg-12 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="product-item">
               <img src="assets/img/jetcargo.png" class="img-fluid" alt="...">
               <div class="product-content">
                 <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4> JETCargo </h4>
+                  <h4>Jetcargo</h4>
                   
                 </div>
 
-                <h3><a href="product-details.html">Logistics Revolutionized</a></h3>
+                <h3><a href="">Logistics Revolutionized</a></h3>
                 <p>JETCargo is our revolutionary logistics solution designed to meet the diverse needs of businesses. Beyond serving the logistics requirements of Jema Africa's subsidiaries and other companies in Tanzania, JETCargo extends its reach to individuals and small businesses. It redefines the landscape of product movement, offering a streamlined and efficient logistics solution for a globalized world.</p>
-                <div class="trainer d-flex justify-content-between align-items-center">
-                  <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
-                    <span>Name...</span>
-                  </div>
-                  <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-user"></i>&nbsp;35
-                    &nbsp;&nbsp;
-                    <i class="bx bx-heart"></i>&nbsp;42
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> <!-- End Product Item-->
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-            <div class="product-item">
-              <img src="assets/img/jet-cargo.png" class="img-fluid" alt="...">
-              <div class="product-content">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>Tailor</h4>
-                  
-                </div>
-
-                <h3><a href="product-details.html">Made Technological Solutions</a></h3>
-                <p>Jema Tech specializes in crafting bespoke technological solutions. Our primary focus is on developing customized tools that address the unique needs and challenges of our sister companies and clients. From operational optimization to performance enhancement, our tech solutions pave the way for sustained growth.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
                     <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
@@ -246,7 +273,7 @@
                 </div>
               </div>
             </div>
-          </div> <!-- End Course Item-->
+          </div> <!-- End Products Item-->
 
         </div>
 
@@ -323,11 +350,9 @@
       </div>
     </section><!-- End Trainers Section -->
 
-    <section id="contact" class="contact">
-
-
-
-<div class="container" data-aos="fade-up" data-aos-delay="100">
+    
+  <section id="contact" class="contact">
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
 
 <!--  Section Title -->
 <div class="section-title">
@@ -371,7 +396,7 @@
           <div class="info-item" data-aos="fade" data-aos-delay="500">
             <i class="bi bi-clock"></i>
             <h3>Open Hours</h3>
-            <h5>Monday - Friday</h5>
+            <h5>Monday - Saturday</h5>
             <h5>8:00AM - 05:00PM</h5>
           </div>
         </div><!-- End Info Item -->
@@ -379,8 +404,8 @@
       </div>
 
     </div>
-
-    <div _ngcontent-hib-c7="" class="col-lg py-5">
+  
+    <div _ngcontent-hib-c7="" class="col-lg py-5" style="border-radius: 5px; border: 1px solid #F5F5F5;">
        <form _ngcontent-hib-c7="" novalidate="" action="https://formsubmit.co/info@jematech.co.tz" method="POST">
          <input _ngcontent-hib-c7="" type="hidden" name="_subject" value="New submission!">
      <div _ngcontent-hib-c7="" class="form-group">
@@ -399,6 +424,8 @@
     <div _ngcontent-hib-c7="" id="emailHelp" class="form-text">We'll never share your email with anyone else.</div></div>
         <button _ngcontent-hib-c7="" class="btn btn-primary">Submit</button>
     </div>
+       
+    </div>
   </form>
 <!-- End Contact Form -->
 
@@ -409,9 +436,10 @@
   
 
 </div>
+<br><br><br>
 <div _ngcontent-hib-c7="" class="col-md">
       <div _ngcontent-hib-c7="" class="mapouter"><div _ngcontent-hib-c7="" class="gmap_canvas">
-      <iframe _ngcontent-hib-c7="" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=jema africa&amp;t=h&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" class="gmap_iframe"></iframe><a _ngcontent-hib-c7="" href="https://www.fridaynightfunkin.net/">Friday Night Funkin Download</a>
+      <iframe _ngcontent-hib-c7="" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=jema africa&amp;t=h&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" class="gmap_iframe"></iframe><a _ngcontent-hib-c7="" href="https://www.fridaynightfunkin.net/"></a>
       </div>
    </div>
 </div>
