@@ -351,8 +351,11 @@
     </section><!-- End Trainers Section -->
 
     
-  <section id="contact" class="contact">
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
+    <section id="contact" class="contact">
+
+
+
+<div class="container" data-aos="fade-up" data-aos-delay="100">
 
 <!--  Section Title -->
 <div class="section-title">
@@ -404,7 +407,7 @@
       </div>
 
     </div>
-  
+
     <div _ngcontent-hib-c7="" class="col-lg py-5" style="border-radius: 5px; border: 1px solid #F5F5F5;">
        <form _ngcontent-hib-c7="" novalidate="" action="https://formsubmit.co/info@jematech.co.tz" method="POST">
          <input _ngcontent-hib-c7="" type="hidden" name="_subject" value="New submission!">
@@ -424,8 +427,6 @@
     <div _ngcontent-hib-c7="" id="emailHelp" class="form-text">We'll never share your email with anyone else.</div></div>
         <button _ngcontent-hib-c7="" class="btn btn-primary">Submit</button>
     </div>
-       
-    </div>
   </form>
 <!-- End Contact Form -->
 
@@ -436,15 +437,14 @@
   
 
 </div>
-<br><br><br>
-<div _ngcontent-hib-c7="" class="col-md">
+
+   <div _ngcontent-hib-c7="" class="col-md">
       <div _ngcontent-hib-c7="" class="mapouter"><div _ngcontent-hib-c7="" class="gmap_canvas">
       <iframe _ngcontent-hib-c7="" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=jema africa&amp;t=h&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" class="gmap_iframe"></iframe><a _ngcontent-hib-c7="" href="https://www.fridaynightfunkin.net/"></a>
       </div>
    </div>
 </div>
 
-   
 </section>
 
   </main><!-- End #main -->
