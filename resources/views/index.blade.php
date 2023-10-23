@@ -30,7 +30,7 @@
           <img src="assets/img/sideph.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3 style="color: white; border-radius: 50px;">We Make It Happen</h3>
+            <h3 style="color: white; border-radius: 50px; padding-left: 15px;">We Make It Happen</h3><br>
             <p class="fst-italic">
             Jema Tech operates within the esteemed Jema Africa family, a leading African company with diverse service offerings. As the technological arm of this vibrant conglomerate, Jema Tech leads the way in empowering sister companies: Jema Chemicals, Jema Illusion, Jema Jione and JIT (Jema Institute of Technology) through innovative solutions.
             <ul>
@@ -158,49 +158,53 @@
 
     </section>
     <!-- End Popular Service Section -->
+
+    <div class="section-title">
+          <h2 style="padding-left: 100px; color: black;">Our Partiners</h2>
+        </div>
   
-    <section id="sponsors" class="sponsors">
+    <section id="sponsors" class="sponsors">    
       <div class="container" data-aos="fade-up">
-        <div class="container" data-aos="fade-up">
-        <h3 style="color: white; text-align: center; background-color: #FF4500;"><b>Powered By</b></h3>
-    </div>
-    <br><br><br><br>
-         
-      
-
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
-
-        <div class="col-lg-4 col-6 text-center">
-            <div class="logo">
-              <img src="assets/img/CRDB Bank.png" class="img-fluid" alt="">
+       
+          <div class="row" data-aos="zoom-in" data-aos-delay="100">
+           <div class="col-lg-2 col-4 text-center">
+              <div class="logo-track">
+               <img src="assets/img/jemaafrica.png" class="img-fluid" alt="">
              
             </div>
           </div>
 
-          <div class="col-lg-4 col-6 text-center">
-            <div class="logo">
-              <img src="assets/img/opes-logo.png" class="img-fluid" alt="">
-             
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-6 text-center">
-            <div class="logo">
-              <img src="assets/img/track-image.png" class="img-fluid" alt="">
-             
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-6 text-center">
-            <div class="logo">
+          <div class="col-lg-2 col-4 text-center">
+            <div class="logo-track">
               <img src="assets/img/Jema Chemicals.png" class="img-fluid" alt="">
               
             </div>
           </div>
 
-          <div class="col-lg-4 col-6 text-center">
-            <div class="logo">
+          <div class="col-lg-2 col-4 text-center">
+            <div class="logo-track">
               <img src="assets/img/ipf-logo.jpg" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-4 text-center">
+            <div class="logo-track">
+              <img src="assets/img/opes-logo.png" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-4 text-center">
+            <div class="logo-label">
+              <img src="assets/img/track-image.png" class="img-fluid" alt="">
+             
+            </div>
+          </div>
+
+        <div class="col-lg-2 col-4 text-center">
+            <div class="logo-track1">
+              <img src="assets/img/CRDB Bank.png" class="img-fluid" alt="">
              
             </div>
           </div>
@@ -225,23 +229,17 @@
             <div class="product-item">
               <img src="assets/img/jet-banking.png" class="img-fluid" alt="...">
               <div class="product-content">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>JETBanking</h4>
-                  
-                </div>
+                
 
-                <h3><a href="">Financial Empowerment</a></h3>
+                <h3>Financial Empowerment</a></h3>
                 <p>Introducing JETBanking, our financial arm dedicated to empowering clients of sister companies. JETBanking addresses credit management challenges, providing comprehensive financial solutions. Whether it's trade finance, staff loans, or community-based initiatives like vicoba groups, JETBanking ensures seamless financial support for businesses and communities alike.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
-                  <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-1.jpg" class="img-fluid" alt="">
-                    <span>Name...</span>
-                  </div>
-                  <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-user"></i>&nbsp;50
-                    &nbsp;&nbsp;
-                    <i class="bx bx-heart"></i>&nbsp;65
-                  </div>
+
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                <a href="{{ route('jetbankcontent') }}"><h4>JETBanking</h4></a>
+                  
+                </div>
+                  
                 </div>
               </div>
             </div>
@@ -253,23 +251,15 @@
             <div class="product-item">
               <img src="assets/img/jetcargo.png" class="img-fluid" alt="...">
               <div class="product-content">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                  <h4>Jetcargo</h4>
-                  
-                </div>
 
-                <h3><a href="">Logistics Revolutionized</a></h3>
+                <h3>Logistics Revolutionized</a></h3>
                 <p>JETCargo is our revolutionary logistics solution designed to meet the diverse needs of businesses. Beyond serving the logistics requirements of Jema Africa's subsidiaries and other companies in Tanzania, JETCargo extends its reach to individuals and small businesses. It redefines the landscape of product movement, offering a streamlined and efficient logistics solution for a globalized world.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
-                  <div class="trainer-profile d-flex align-items-center">
-                    <img src="assets/img/trainers/trainer-3.jpg" class="img-fluid" alt="">
-                    <span>Name...</span>
-                  </div>
-                  <div class="trainer-rank d-flex align-items-center">
-                    <i class="bx bx-user"></i>&nbsp;20
-                    &nbsp;&nbsp;
-                    <i class="bx bx-heart"></i>&nbsp;85
-                  </div>
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                <a href="{{ route('jetcargocontent') }}"><h4>Jetcargo</h4></a>
+                  
+                </div>  
+                  
                 </div>
               </div>
             </div>

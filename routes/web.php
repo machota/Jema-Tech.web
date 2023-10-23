@@ -24,3 +24,5 @@ Route::view('/ourteam','ourteam')->name('ourteam');
 Route::view('/contact','contact')->name('contact');
 Route::view('/why-us','why-us')->name('why-us');
 Route::view('/service-provides','service-provides')->name('service-provides');
+Route::view('/jetbankcontent','jetbankcontent')->name('jetbankcontent');
+Route::view('/jetcargocontent','jetcargocontent')->name('jetcargocontent');

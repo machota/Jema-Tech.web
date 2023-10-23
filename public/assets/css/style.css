@@ -930,9 +930,6 @@ section {
 --------------------------------------------------------------*/
 .products .product-item {
   border-radius: 5px;
-  border: 1px solid #F5F5F5;
- 
-  
 }
 
 .products .product-content {
@@ -1068,6 +1065,17 @@ section {
   font-size: 18px;
   color: #FF4500;
 }
+
+.products-m .product-item {
+  border-radius: 5px;
+  
+}
+
+.products-m .product-item img{
+  transition: all ease-in-out 0.4s;
+  border-radius: 30px; 
+}
+
 
 
 /*.courses-one .container h2{
@@ -1900,6 +1908,22 @@ section {
   position: relative;
   
 }
+.sponsors h2{
+  padding: 100px;
+}
+
+.sponsors .logo-track img{
+  padding: 35px;
+ 
+}
+.sponsors .logo-track1 img{
+  padding-top: 55px;
+ 
+}
+
+.sponsors .logo-label img{
+  padding-top: 60px;
+}
 
 .powers .container{
   background-color: #FF4500;
@@ -1907,5 +1931,6 @@ section {
   color: white;
 
 }
+
 
 
