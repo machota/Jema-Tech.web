@@ -15,8 +15,8 @@
 
         <div _ngcontent-hib-c4="" class="row">
         <div _ngcontent-hib-c4="" class="services-overview col-lg-6 align-self">
-           <h4 _ngcontent-hib-c4="" class="text-base mb-2" style="background-color: #F5F5F5;"><b>Services Overview</b></h4>
-             <h1 _ngcontent-hib-c4="" class="p-2 text-white" style="background-color: #FC5401;">We See Things That Others Miss</h1>
+           
+             <h1 _ngcontent-hib-c4="" class="p-2 text-white" style="background-color: #FC5401; border-radius: 35px; text-align: center;">We See Things That Others Miss</h1>
            <p _ngcontent-hib-c4="" class="text-base mt-4">
             As a global leader in Technology and AI/ Analytics
             services, Jema Tech delivers AI-driven solutions to 
@@ -35,13 +35,13 @@
          <div _ngcontent-hib-c4="" class="col-lg-6 mt-lg-0 mt-md-5 mt-4 left-wthree-img">
  
  
-      <img _ngcontent-hib-c4="" src="assets/img/ser-overview.jpg" alt="" class="rounded-xl">
+      <img _ngcontent-hib-c4="" src="assets/img/ser-overview.jpg" alt="" class="rounded-xl" style="border-radius: 30px;">
     </div>
   </div><br><br>
 
         <div class="row">
         <div class="section-one">
-        <h2 _ngcontent-hib-c4="" class="text-base mb-4" style="background-color: #F5F5F5;"><b>Our Services We Provides</b></h2>
+        <h2 _ngcontent-hib-c4="" class="text-base mb-4" style="background-color: #F5F5F5; border-radius: 35px; padding-left: 15px;"><b>Our Services We Provides</b></h2>
         </div>
          <div></div>
      <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
@@ -73,7 +73,7 @@
 
        <div _ngcontent-hib-c4="" class="services">
           <div class="row">
-          <h3 _ngcontent-hib-c4="" class="text-base mb-2" style="background-color: #F5F5F5;"><b>Why Other Choose Us</b></h3>
+          <h3 _ngcontent-hib-c4="" class="text-base mb-2" style="background-color: #F5F5F5;  padding: 20px; border-radius: 35px;"><b>Why Other Choose Us</b></h3>
           <br><br><br><br>
        <div _ngcontent-hib-c4="" id="benefit" class="col-lg-4 ol-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
         <i _ngcontent-hib-c4="" class="bi bi-gear-wide-connected" style="font-size: 75px; color: #0f1e50;"></i>

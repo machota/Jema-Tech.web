@@ -40,11 +40,11 @@
             We do everything in our power to ensure that we provide our customers with the products, services & solutions to suit their needs at an affordable cost, cost conscious, & works towards optimizing costs to the majority of our customers. Always aspire to conduct our business with the highest standard of integrity & professionalism while leading, motivating & influencing people to achieve desired results, regardless of reporting lines. Able to engage people with meaningful explanations.
            </p>
           </div>
-        </div>
+        </div><br>
 
         <div class="section-title">
           
-          <h3 style="color: white; border-radius: 50px;">JEMA Tech’s Philosophy</h3>
+          <h3 style="color: white; border-radius: 50px; padding-left: 10px;">JEMA Tech’s Philosophy</h3><br>
           <h4><b>Our Philosophy<b></h4>
         </div>
 
